@@ -1,4 +1,17 @@
 {
   "name": "nadeem",
-  "displayName": "nadeem"
+  "displayName": "nadeem",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "7085a087-81fb-4058-9c20-b5ffa7a1d48a"
+      }
+    },
+    "runtimeVersion": "1.0.0",
+    "updates": {
+      "url": "https://u.expo.dev/7085a087-81fb-4058-9c20-b5ffa7a1d48a"
+    },
+    "android": {},
+    "ios": {}
+  }
 }
